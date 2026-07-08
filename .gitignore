@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# VS Code
+.vscode/
+
+# Logs
+logs/
+
+# Analytics
+analytics/
+
+# Recordings
+recordings/
+
+# Screenshots
+captures/
+
+# Output
+outputs/
+
+# Model Cache
+*.pt.cache
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Analytics exports
+analytics/*.csv
+
+# Python cache
+*.pyc
+
+# Environment variables
+.env
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
